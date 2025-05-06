@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+![Flyer](https://github.com/chinitaberrio/chinitaberrio.github.io/blob/master/Blue%20Abstract%20Gradient%20Tech%20Event%20Poster-2.png)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -98,7 +102,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](Blue Abstract Gradient Tech Event Poster-2.png)
 
 
 ### Definition lists can be used with HTML syntax.
