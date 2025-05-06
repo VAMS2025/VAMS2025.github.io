@@ -5,6 +5,8 @@ layout: default
 
 ![Flyer](Blue Abstract Gradient Tech Event Poster-2.png)
 
+
+
 Mobility is a fundamental aspect of daily life and is undergoing a profound transformation, driven by societal needs and technological advancements. There is growing demand for broader accessibility, sustainable mobility solutions, and enhanced safety.
 Breakthroughs in machine learning, sensing, perception algorithms, computing power, and communication technologies are enabling the development of autonomous systems capable of navigating complex and dynamic environments.
 In recent years, there has been a surge in interest in deploying autonomous vehicles across land, sea, and air, showcasing their potential in transporting people and goods and supporting a variety of field applications.
@@ -17,13 +19,13 @@ For autonomous mobility to be widely accepted, safe, reliable, and continuous op
 
 VAMS 2025 will explore:
 
--   **Theoretical and methodological advances** in ensuring the safety of autonomous mobile systems by design (**Safety by Design**).
--   **Innovative approaches** for the  **verification and validation**  of autonomous mobile systems (**Safety by Verification**).
--   **Domain-specific challenges** in verification across  **land, sea, air, and space**, addressing sector-specific requirements.
+-   **Theoretical and methodological advances** in ensuring the safety of autonomous mobile systems by design (Safety by Design).
+-   **Innovative approaches** for the  **verification and validation**  of autonomous mobile systems (Safety by Verification).
+-   **Domain-specific challenges** in verification across  land, sea, air, and space, addressing sector-specific requirements.
 -   **Ethical considerations** in the deployment and verification of autonomous mobility.
 
 <!---[Link to another page](./another-page.html).--->
-#Event Format
+# Event Format
 
 **Day 1: Interdisciplinary Plenary & Parallel Sessions**
 
@@ -50,6 +52,27 @@ Each session will feature:
 -   **One keynote presentations** from leading experts
 -   **Two shorter presentations** showcasing cutting-edge research and industry developments
 
+
+# Participants
+
+VAMS 2025 brings together:
+
+-   **Manufacturers** of autonomous mobile systems
+-   **Operators** of autonomous vehicles and robotic platforms
+-   **Development service providers**
+-   **Universities and research institutes**
+-   **Manufacturers** of testing, measurement, and simulation systems
+-   **Regulatory authorities, associations, and testing institutes**
+
+----------
+
+**Participation & Invitation Process**
+
+VAMS 2025 is an  **invitation-only**  symposium. Participants will receive an official invitation from the  organizing committee  to present their work and engage in discussions.
+
+However, professionals and researchers  actively working in the field of autonomous mobile systems  who wish to participate may contact the  organizing committee  to request an invitation.
+
+
 # Speakers
 
 | Name         |Affiliation          | Topic |
@@ -61,7 +84,14 @@ Each session will feature:
 
 * * *
 
-### Registration: xxxxxxx
+# Organising Committee
+
+**Stephany Berrio Perez** (University of Sydney, AU)  
+**Justin Dauwels**  (TU Delft, NL)  
+**Javier Ibanez-Guzman**  (Ampere, Renault Group, FR)  
+**Michael Fisher**  (University of Manchester, UK)  
+**Bruno Monsuez**  (ENSTA Paris, FR)  
+**Karla Quintero** (IRT SystemX, FR)  
 
 
 ### Contact us:  aaaa@aaaa.com
