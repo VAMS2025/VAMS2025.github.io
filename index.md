@@ -81,6 +81,7 @@ However, professionals and researchers  actively working in the field of autonom
 | out of stock | good and plenty     | nice  |
 | ok           | good `oreos`        | hmm   |
 | ok           | good `zoute` drop   | yumm  |
+| ok           | good `zoute` drop   | yumm  |
 
 * * *
 
